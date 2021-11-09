@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Force Non-Public
- * Description: .
+ * Description: Programmatically discourages search engines from indexing the site.
  * Plugin URI: https://github.com/innocode-digital/wp-force-non-public
- * Version: 0.0.1
+ * Version: 1.0.0
  * Author: Innocode
  * Author URI: https://innocode.com
  * Tested up to: 5.8.1
