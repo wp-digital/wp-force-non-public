@@ -1,0 +1,22 @@
+{
+  "name": "innocode-digital/wp-force-non-public",
+  "version": "0.0.1",
+  "type": "wordpress-muplugin",
+  "license": "GPL-2.0+",
+  "require": {
+    "php": ">=7.1",
+    "composer/installers": "~1.0"
+  },
+  "description": ".",
+  "authors": [
+    {
+      "name": "Innocode",
+      "email": "post@innocode.no",
+      "homepage": "https://innocode.com/"
+    },
+    {
+      "name": "Viktor Kuliebiakin",
+      "email": "kuliebiakin@gmail.com"
+    }
+  ]
+}
